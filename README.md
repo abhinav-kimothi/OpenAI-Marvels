@@ -1,2 +1,7 @@
 # OpenAI Marvels
- The realm of AI Wonder
+![www.openai.com](/Assets/Images/OpenAI%20Logo.png)
+### The realm of AI Wonder
+
+
+
+
