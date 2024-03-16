@@ -1,0 +1,6 @@
+tiktoken 
+openai
+langchain
+faiss-cpu
+pandas
+bs4
