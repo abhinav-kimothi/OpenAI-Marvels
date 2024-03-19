@@ -153,3 +153,4 @@ cython_debug/
 
 #Config
 *.ini
+TextGeneration__2.ipynb

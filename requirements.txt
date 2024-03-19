@@ -4,3 +4,6 @@ langchain
 faiss-cpu
 pandas
 bs4
+gradio
+scikit-learn
+pypdf2
