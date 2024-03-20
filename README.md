@@ -48,6 +48,7 @@ openai_key=XXXXXXXXXXXX
 
  
 [![GitHub followers](https://img.shields.io/github/followers/abhinav-kimothi?label=Follow&style=social)](https://github.com/abhinav-kimothi)
+[![Me](https://img.shields.io/badge/Medium-8A2BE2)](https://medium.com/@abhinavkimothi)
 [![LIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/abhinav-kimothi/)
 [![Mail](https://img.shields.io/badge/eMail-green)](mailto:abhinav.kimothi.ds@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/@?style=social)](https://twitter.com/abhinav_kimothi)
